@@ -50,7 +50,7 @@ John's Tasks:
 This project is open-source and available under the MIT License.
 
 ## Author
-Your Name
+Carson Doubiago
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
